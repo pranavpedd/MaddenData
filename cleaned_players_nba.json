@@ -1,0 +1,3218 @@
+[
+  {
+    "name": "Trae Young",
+    "team": "Atlanta Hawks",
+    "positions": ["PG"],
+    "overall_rating": 91
+  },
+  {
+    "name": "Jalen Johnson",
+    "team": "Atlanta Hawks",
+    "positions": ["PF", "SF"],
+    "overall_rating": 85
+  },
+  {
+    "name": "Dyson Daniels",
+    "team": "Atlanta Hawks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 85
+  },
+  {
+    "name": "Onyeka Okongwu",
+    "team": "Atlanta Hawks",
+    "positions": ["C"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Zaccharie Risacher",
+    "team": "Atlanta Hawks",
+    "positions": ["SF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Clint Capela",
+    "team": "Atlanta Hawks",
+    "positions": ["C"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Caris LeVert",
+    "team": "Atlanta Hawks",
+    "positions": ["SG", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "team": "Atlanta Hawks",
+    "positions": ["C", "PF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Georges Niang",
+    "team": "Atlanta Hawks",
+    "positions": ["PF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Terance Mann",
+    "team": "Atlanta Hawks",
+    "positions": ["SG", "SF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Vit Krejci",
+    "team": "Atlanta Hawks",
+    "positions": ["SF", "SG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Mouhamed Gueye",
+    "team": "Atlanta Hawks",
+    "positions": ["PF", "C"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Garrison Mathews",
+    "team": "Atlanta Hawks",
+    "positions": ["SG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Kobe Bufkin",
+    "team": "Atlanta Hawks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Dominick Barlow",
+    "team": "Atlanta Hawks",
+    "positions": ["C", "PF"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Keaton Wallace",
+    "team": "Atlanta Hawks",
+    "positions": ["SG", "PG"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Daeqwon Plowden",
+    "team": "Atlanta Hawks",
+    "positions": ["SF", "SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Jacob Toppin",
+    "team": "Atlanta Hawks",
+    "positions": ["PF", "SF"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "positions": ["PF", "SF"],
+    "overall_rating": 95
+  },
+  {
+    "name": "Jaylen Brown",
+    "team": "Boston Celtics",
+    "positions": ["SF", "SG"],
+    "overall_rating": 91
+  },
+  {
+    "name": "Kristaps Porzingis",
+    "team": "Boston Celtics",
+    "positions": ["C", "PF"],
+    "overall_rating": 88
+  },
+  {
+    "name": "Derrick White",
+    "team": "Boston Celtics",
+    "positions": ["SG", "PG"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Jrue Holiday",
+    "team": "Boston Celtics",
+    "positions": ["SG", "PG"],
+    "overall_rating": 85
+  },
+  {
+    "name": "Payton Pritchard",
+    "team": "Boston Celtics",
+    "positions": ["PG"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Al Horford",
+    "team": "Boston Celtics",
+    "positions": ["PF", "C"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Luke Kornet",
+    "team": "Boston Celtics",
+    "positions": ["C"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Sam Hauser",
+    "team": "Boston Celtics",
+    "positions": ["SF", "PF"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Neemias Queta",
+    "team": "Boston Celtics",
+    "positions": ["C"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Torrey Craig",
+    "team": "Boston Celtics",
+    "positions": ["PF", "SF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Baylor Scheierman",
+    "team": "Boston Celtics",
+    "positions": ["SG", "SF"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Jordan Walsh",
+    "team": "Boston Celtics",
+    "positions": ["PF", "SF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Xavier Tillman",
+    "team": "Boston Celtics",
+    "positions": ["C"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Drew Peterson",
+    "team": "Boston Celtics",
+    "positions": ["SF", "PF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "JD Davison",
+    "team": "Boston Celtics",
+    "positions": ["PG", "SG"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Miles Norris",
+    "team": "Boston Celtics",
+    "positions": ["PF", "SF"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Cameron Johnson",
+    "team": "Brooklyn Nets",
+    "positions": ["PF", "SF"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Cam Thomas",
+    "team": "Brooklyn Nets",
+    "positions": ["SG", "SF"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Nic Claxton",
+    "team": "Brooklyn Nets",
+    "positions": ["C"],
+    "overall_rating": 82
+  },
+  {
+    "name": "D’Angelo Russell",
+    "team": "Brooklyn Nets",
+    "positions": ["PG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Ziaire Williams",
+    "team": "Brooklyn Nets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "De’Anthony Melton",
+    "team": "Brooklyn Nets",
+    "positions": ["SG", "PG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Day’Ron Sharpe",
+    "team": "Brooklyn Nets",
+    "positions": ["C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Keon Johnson",
+    "team": "Brooklyn Nets",
+    "positions": ["SG", "SF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Tyrese Martin",
+    "team": "Brooklyn Nets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Trendon Watford",
+    "team": "Brooklyn Nets",
+    "positions": ["PF", "C"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Jalen Wilson",
+    "team": "Brooklyn Nets",
+    "positions": ["SF", "PF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Noah Clowney",
+    "team": "Brooklyn Nets",
+    "positions": ["C", "PF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Dariq Whitehead",
+    "team": "Brooklyn Nets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Tosan Evbuomwan",
+    "team": "Brooklyn Nets",
+    "positions": ["PF", "SF"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Maxwell Lewis",
+    "team": "Brooklyn Nets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Drew Timme",
+    "team": "Brooklyn Nets",
+    "positions": ["C", "PF"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Tyson Etienne",
+    "team": "Brooklyn Nets",
+    "positions": ["PG"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Reece Beekman",
+    "team": "Brooklyn Nets",
+    "positions": ["PG", "SG"],
+    "overall_rating": 69
+  },
+  {
+    "name": "LaMelo Ball",
+    "team": "Charlotte Hornets",
+    "positions": ["PG", "SG"],
+    "overall_rating": 88
+  },
+  {
+    "name": "Miles Bridges",
+    "team": "Charlotte Hornets",
+    "positions": ["PF", "SF"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Mark Williams",
+    "team": "Charlotte Hornets",
+    "positions": ["C"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Brandon Miller",
+    "team": "Charlotte Hornets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Tre Mann",
+    "team": "Charlotte Hornets",
+    "positions": ["SG", "PG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Jusuf Nurkic",
+    "team": "Charlotte Hornets",
+    "positions": ["C"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Nick Smith Jr.",
+    "team": "Charlotte Hornets",
+    "positions": ["PG", "SG"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Josh Okogie",
+    "team": "Charlotte Hornets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Grant Williams",
+    "team": "Charlotte Hornets",
+    "positions": ["PF", "C"],
+    "overall_rating": 36
+  },
+  {
+    "name": "Moussa Diabate",
+    "team": "Charlotte Hornets",
+    "positions": ["C", "PF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Seth Curry",
+    "team": "Charlotte Hornets",
+    "positions": ["SG", "PG"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Josh Green",
+    "team": "Charlotte Hornets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "KJ Simpson",
+    "team": "Charlotte Hornets",
+    "positions": ["PG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "DaQuan Jeffries",
+    "team": "Charlotte Hornets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Tidjane Salaun",
+    "team": "Charlotte Hornets",
+    "positions": ["PF", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Wendell Moore Jr.",
+    "team": "Charlotte Hornets",
+    "positions": ["SG", "SF"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Taj Gibson",
+    "team": "Charlotte Hornets",
+    "positions": ["C"],
+    "overall_rating": 60
+  },
+  {
+    "name": "Damion Baugh",
+    "team": "Charlotte Hornets",
+    "positions": ["PG", "SG"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Jaylen Sims",
+    "team": "Charlotte Hornets",
+    "positions": ["SG", "SF"],
+    "overall_rating": 89
+  },
+  {
+    "name": "Coby White",
+    "team": "Chicago Bulls",
+    "positions": ["PG", "SG"],
+    "overall_rating": 85
+  },
+  {
+    "name": "Josh Giddey",
+    "team": "Chicago Bulls",
+    "positions": ["SG", "PG"],
+    "overall_rating": 85
+  },
+  {
+    "name": "Nikola Vucevic",
+    "team": "Chicago Bulls",
+    "positions": ["C"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Matas Buzelis",
+    "team": "Chicago Bulls",
+    "positions": ["SF", "PF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Tre Jones",
+    "team": "Chicago Bulls",
+    "positions": ["PG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Kevin Huerter",
+    "team": "Chicago Bulls",
+    "positions": ["SG", "SF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Zach Collins",
+    "team": "Chicago Bulls",
+    "positions": ["C"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Lonzo Ball",
+    "team": "Chicago Bulls",
+    "positions": ["PG"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Jalen Smith",
+    "team": "Chicago Bulls",
+    "positions": ["C", "PF"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Ayo Dosunmu",
+    "team": "Chicago Bulls",
+    "positions": ["SG", "PG"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Patrick Williams",
+    "team": "Chicago Bulls",
+    "positions": ["PF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Talen Horton-Tucker",
+    "team": "Chicago Bulls",
+    "positions": ["SG", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Dalen Terry",
+    "team": "Chicago Bulls",
+    "positions": ["SG", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Jevon Carter",
+    "team": "Chicago Bulls",
+    "positions": ["PG", "SG"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Julian Phillips",
+    "team": "Chicago Bulls",
+    "positions": ["SF", "PF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "E.J. Liddell",
+    "team": "Chicago Bulls",
+    "positions": ["PF", "SF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Emanuel Miller",
+    "team": "Chicago Bulls",
+    "positions": ["SF", "PF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Jahmir Young",
+    "team": "Chicago Bulls",
+    "positions": ["PG"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Donovan Mitchell",
+    "team": "Cleveland Cavaliers",
+    "positions": ["SG", "PG"],
+    "overall_rating": 94
+  },
+  {
+    "name": "Evan Mobley",
+    "team": "Cleveland Cavaliers",
+    "positions": ["PF", "C"],
+    "overall_rating": 92
+  },
+  {
+    "name": "Darius Garland",
+    "team": "Cleveland Cavaliers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 88
+  },
+  {
+    "name": "Jarrett Allen",
+    "team": "Cleveland Cavaliers",
+    "positions": ["C"],
+    "overall_rating": 86
+  },
+  {
+    "name": "Ty Jerome",
+    "team": "Cleveland Cavaliers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 83
+  },
+  {
+    "name": "De'Andre Hunter",
+    "team": "Cleveland Cavaliers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Max Strus",
+    "team": "Cleveland Cavaliers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Isaac Okoro",
+    "team": "Cleveland Cavaliers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Sam Merrill",
+    "team": "Cleveland Cavaliers",
+    "positions": ["SG", "PG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Jaylon Tyson",
+    "team": "Cleveland Cavaliers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Craig Porter",
+    "team": "Cleveland Cavaliers",
+    "positions": ["PG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Javonte Green",
+    "team": "Cleveland Cavaliers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Dean Wade",
+    "team": "Cleveland Cavaliers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Chuma Okeke",
+    "team": "Cleveland Cavaliers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Tristan Thompson",
+    "team": "Cleveland Cavaliers",
+    "positions": ["C"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Luke Travers",
+    "team": "Cleveland Cavaliers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Emoni Bates",
+    "team": "Cleveland Cavaliers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Nae'Qwan Tomlin",
+    "team": "Cleveland Cavaliers",
+    "positions": ["PF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Anthony Davis",
+    "team": "Dallas Mavericks",
+    "positions": ["C", "PF"],
+    "overall_rating": 95
+  },
+  {
+    "name": "Kyrie Irving",
+    "team": "Dallas Mavericks",
+    "positions": ["SG", "PG"],
+    "overall_rating": 92
+  },
+  {
+    "name": "Dereck Lively",
+    "team": "Dallas Mavericks",
+    "positions": ["C"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Daniel Gafford",
+    "team": "Dallas Mavericks",
+    "positions": ["C"],
+    "overall_rating": 83
+  },
+  {
+    "name": "P.J. Washington",
+    "team": "Dallas Mavericks",
+    "positions": ["PF", "C"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Naji Marshall",
+    "team": "Dallas Mavericks",
+    "positions": ["PF", "SF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Klay Thompson",
+    "team": "Dallas Mavericks",
+    "positions": ["SG", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "team": "Dallas Mavericks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Dante Exum",
+    "team": "Dallas Mavericks",
+    "positions": ["SF", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Max Christie",
+    "team": "Dallas Mavericks",
+    "positions": ["SG", "SF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Brandon Williams",
+    "team": "Dallas Mavericks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Jaden Hardy",
+    "team": "Dallas Mavericks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Caleb Martin",
+    "team": "Dallas Mavericks",
+    "positions": ["PF", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Kessler Edwards",
+    "team": "Dallas Mavericks",
+    "positions": ["SF", "PF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Olivier-Maxence Prosper",
+    "team": "Dallas Mavericks",
+    "positions": ["PF", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Dwight Powell",
+    "team": "Dallas Mavericks",
+    "positions": ["C"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Kai Jones",
+    "team": "Dallas Mavericks",
+    "positions": ["C", "PF"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Nikola Jokic",
+    "team": "Denver Nuggets",
+    "positions": ["C"],
+    "overall_rating": 98
+  },
+  {
+    "name": "Jamal Murray",
+    "team": "Denver Nuggets",
+    "positions": ["PG", "SG"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Aaron Gordon",
+    "team": "Denver Nuggets",
+    "positions": ["PF"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Michael Porter Jr.",
+    "team": "Denver Nuggets",
+    "positions": ["SF", "PF"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Christian Braun",
+    "team": "Denver Nuggets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Russell Westbrook",
+    "team": "Denver Nuggets",
+    "positions": ["PG"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Peyton Watson",
+    "team": "Denver Nuggets",
+    "positions": ["PF", "SF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Julian Strawther",
+    "team": "Denver Nuggets",
+    "positions": ["SG", "SF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "DeAndre Jordan",
+    "team": "Denver Nuggets",
+    "positions": ["C"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Zeke Nnaji",
+    "team": "Denver Nuggets",
+    "positions": ["C", "PF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Dario Saric",
+    "team": "Denver Nuggets",
+    "positions": ["PF", "C"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Jalen Pickett",
+    "team": "Denver Nuggets",
+    "positions": ["PG", "SG"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Vlatko Cancar",
+    "team": "Denver Nuggets",
+    "positions": ["PF", "SF"],
+    "overall_rating": 72
+  },
+  {
+    "name": "DaRon Holmes II",
+    "team": "Denver Nuggets",
+    "positions": ["PF", "C"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Hunter Tyson",
+    "team": "Denver Nuggets",
+    "positions": ["PF", "SF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "PJ Hall",
+    "team": "Denver Nuggets",
+    "positions": ["C", "PF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Trey Alexander",
+    "team": "Denver Nuggets",
+    "positions": ["SG", "PG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Spencer Jones",
+    "team": "Denver Nuggets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Cade Cunningham",
+    "team": "Detroit Pistons",
+    "positions": ["PG", "SG"],
+    "overall_rating": 92
+  },
+  {
+    "name": "Jalen Duren",
+    "team": "Detroit Pistons",
+    "positions": ["C"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Ausar Thompson",
+    "team": "Detroit Pistons",
+    "positions": ["SF", "PF"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Jaden Ivey",
+    "team": "Detroit Pistons",
+    "positions": ["SG", "PG"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Tobias Harris",
+    "team": "Detroit Pistons",
+    "positions": ["PF", "SF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Malik Beasley",
+    "team": "Detroit Pistons",
+    "positions": ["SG", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Tim Hardaway Jr.",
+    "team": "Detroit Pistons",
+    "positions": ["SG", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Dennis Schroder",
+    "team": "Detroit Pistons",
+    "positions": ["PG", "SG"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Isaiah Stewart",
+    "team": "Detroit Pistons",
+    "positions": ["PF", "C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Ronald Holland II",
+    "team": "Detroit Pistons",
+    "positions": ["SF", "PF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Marcus Sasser",
+    "team": "Detroit Pistons",
+    "positions": ["PG", "SG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Lindy Waters III",
+    "team": "Detroit Pistons",
+    "positions": ["SG", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Simone Fontecchio",
+    "team": "Detroit Pistons",
+    "positions": ["SF", "PF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Paul Reed",
+    "team": "Detroit Pistons",
+    "positions": ["C", "PF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Bobi Klintman",
+    "team": "Detroit Pistons",
+    "positions": ["PF", "SF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Ron Harper Jr.",
+    "team": "Detroit Pistons",
+    "positions": ["SF", "SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Tolu Smith",
+    "team": "Detroit Pistons",
+    "positions": ["PF", "C"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Daniss Jenkins",
+    "team": "Detroit Pistons",
+    "positions": ["PG", "SG"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "positions": ["PG", "SG"],
+    "overall_rating": 95
+  },
+  {
+    "name": "Jimmy Butler",
+    "team": "Golden State Warriors",
+    "positions": ["SF", "PF"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Draymond Green",
+    "team": "Golden State Warriors",
+    "positions": ["PF", "C"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Jonathan Kuminga",
+    "team": "Golden State Warriors",
+    "positions": ["PF", "SF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Brandin Podziemski",
+    "team": "Golden State Warriors",
+    "positions": ["SG", "PG"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Moses Moody",
+    "team": "Golden State Warriors",
+    "positions": ["SF", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Gary Payton II",
+    "team": "Golden State Warriors",
+    "positions": ["SF", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Buddy Hield",
+    "team": "Golden State Warriors",
+    "positions": ["SG", "SF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Quinten Post",
+    "team": "Golden State Warriors",
+    "positions": ["C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Kevon Looney",
+    "team": "Golden State Warriors",
+    "positions": ["C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Trayce Jackson-Davis",
+    "team": "Golden State Warriors",
+    "positions": ["C", "PF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Gui Santos",
+    "team": "Golden State Warriors",
+    "positions": ["PF", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Kevin Knox II",
+    "team": "Golden State Warriors",
+    "positions": ["PF", "SF"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Pat Spencer",
+    "team": "Golden State Warriors",
+    "positions": ["PG", "SG"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Jackson Rowe",
+    "team": "Golden State Warriors",
+    "positions": ["SF", "SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Taran Armstrong",
+    "team": "Golden State Warriors",
+    "positions": ["SG", "PG"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Braxton Key",
+    "team": "Golden State Warriors",
+    "positions": ["PF", "C"],
+    "overall_rating": 66
+  },
+  {
+    "name": "Amen Thompson",
+    "team": "Houston Rockets",
+    "positions": ["SG", "SF"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Alperen Sengun",
+    "team": "Houston Rockets",
+    "positions": ["C"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Jalen Green",
+    "team": "Houston Rockets",
+    "positions": ["SG", "PG"],
+    "overall_rating": 86
+  },
+  {
+    "name": "Tari Eason",
+    "team": "Houston Rockets",
+    "positions": ["PF", "SF"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Dillon Brooks",
+    "team": "Houston Rockets",
+    "positions": ["SF", "PF"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Jabari Smith Jr.",
+    "team": "Houston Rockets",
+    "positions": ["PF", "C"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Fred VanVleet",
+    "team": "Houston Rockets",
+    "positions": ["PG"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Cam Whitmore",
+    "team": "Houston Rockets",
+    "positions": ["SF", "PF"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Steven Adams",
+    "team": "Houston Rockets",
+    "positions": ["C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Jock Landale",
+    "team": "Houston Rockets",
+    "positions": ["C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Aaron Holiday",
+    "team": "Houston Rockets",
+    "positions": ["PG", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "David Roddy",
+    "team": "Houston Rockets",
+    "positions": ["SF", "PF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Jeff Green",
+    "team": "Houston Rockets",
+    "positions": ["PF", "C"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Jae'Sean Tate",
+    "team": "Houston Rockets",
+    "positions": ["SF", "PF"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Reed Sheppard",
+    "team": "Houston Rockets",
+    "positions": ["PG", "SG"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Jack McVeigh",
+    "team": "Houston Rockets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Nate Williams",
+    "team": "Houston Rockets",
+    "positions": ["SF", "SG"],
+    "overall_rating": 69
+  },
+  {
+    "name": "N'Faly Dante",
+    "team": "Houston Rockets",
+    "positions": ["C", "PF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Tyrese Haliburton",
+    "team": "Indiana Pacers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 90
+  },
+  {
+    "name": "Pascal Siakam",
+    "team": "Indiana Pacers",
+    "positions": ["PF", "C"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Myles Turner",
+    "team": "Indiana Pacers",
+    "positions": ["C"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Andrew Nembhard",
+    "team": "Indiana Pacers",
+    "positions": ["SG", "PG"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Obi Toppin",
+    "team": "Indiana Pacers",
+    "positions": ["PF"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Bennedict Mathurin",
+    "team": "Indiana Pacers",
+    "positions": ["SF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Aaron Nesmith",
+    "team": "Indiana Pacers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "T.J. McConnell",
+    "team": "Indiana Pacers",
+    "positions": ["PG"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Jarace Walker",
+    "team": "Indiana Pacers",
+    "positions": ["PF", "C"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Isaiah Jackson",
+    "team": "Indiana Pacers",
+    "positions": ["C", "PF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Thomas Bryant",
+    "team": "Indiana Pacers",
+    "positions": ["C"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Ben Sheppard",
+    "team": "Indiana Pacers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Quenton Jackson",
+    "team": "Indiana Pacers",
+    "positions": ["SG", "PG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Tony Bradley",
+    "team": "Indiana Pacers",
+    "positions": ["C"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Johnny Furphy",
+    "team": "Indiana Pacers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "James Johnson",
+    "team": "Indiana Pacers",
+    "positions": ["PF", "C"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Enrique Freeman",
+    "team": "Indiana Pacers",
+    "positions": ["PF", "C"],
+    "overall_rating": 67
+  },
+  {
+    "name": "RayJ Dennis",
+    "team": "Indiana Pacers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Kawhi Leonard",
+    "team": "Los Angeles Clippers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 91
+  },
+  {
+    "name": "James Harden",
+    "team": "Los Angeles Clippers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 90
+  },
+  {
+    "name": "Ivica Zubac",
+    "team": "Los Angeles Clippers",
+    "positions": ["C"],
+    "overall_rating": 88
+  },
+  {
+    "name": "Norman Powell",
+    "team": "Los Angeles Clippers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Bogdan Bogdanovic",
+    "team": "Los Angeles Clippers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "team": "Los Angeles Clippers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Ben Simmons",
+    "team": "Los Angeles Clippers",
+    "positions": ["PG", "C"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Kris Dunn",
+    "team": "Los Angeles Clippers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Drew Eubanks",
+    "team": "Los Angeles Clippers",
+    "positions": ["C"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Amir Coffey",
+    "team": "Los Angeles Clippers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Nicolas Batum",
+    "team": "Los Angeles Clippers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Jordan Miller",
+    "team": "Los Angeles Clippers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Patrick Baldwin Jr.",
+    "team": "Los Angeles Clippers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Kobe Brown",
+    "team": "Los Angeles Clippers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Patty Mills",
+    "team": "Los Angeles Clippers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Cam Christie",
+    "team": "Los Angeles Clippers",
+    "positions": ["SG", "PG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Trentyn Flowers",
+    "team": "Los Angeles Clippers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Seth Lundy",
+    "team": "Los Angeles Clippers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Luka Doncic",
+    "team": "Los Angeles Lakers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 96
+  },
+  {
+    "name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "positions": ["PF", "PG"],
+    "overall_rating": 96
+  },
+  {
+    "name": "Austin Reaves",
+    "team": "Los Angeles Lakers",
+    "positions": ["SG", "PG"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Rui Hachimura",
+    "team": "Los Angeles Lakers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Jason Hayes",
+    "team": "Los Angeles Lakers",
+    "positions": ["C", "PF"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Dalton Knecht",
+    "team": "Los Angeles Lakers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Gabe Vincent",
+    "team": "Los Angeles Lakers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Jarred Vanderbilt",
+    "team": "Los Angeles Lakers",
+    "positions": ["PF", "C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "team": "Los Angeles Lakers",
+    "positions": ["PF", "C"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Jordan Goodwin",
+    "team": "Los Angeles Lakers",
+    "positions": ["SG", "PG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Shake Milton",
+    "team": "Los Angeles Lakers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Christian Koloko",
+    "team": "Los Angeles Lakers",
+    "positions": ["C"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Alex Len",
+    "team": "Los Angeles Lakers",
+    "positions": ["C"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Maxi Kleber",
+    "team": "Los Angeles Lakers",
+    "positions": ["PF", "C"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Trey Jemison III",
+    "team": "Los Angeles Lakers",
+    "positions": ["C"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Markieff Morris",
+    "team": "Los Angeles Lakers",
+    "positions": ["PF", "C"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Bronny James",
+    "team": "Los Angeles Lakers",
+    "positions": ["SG", "PG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Ja Morant",
+    "team": "Memphis Grizzlies",
+    "positions": ["PG"],
+    "overall_rating": 92
+  },
+  {
+    "name": "Jaren Jackson Jr.",
+    "team": "Memphis Grizzlies",
+    "positions": ["C", "PF"],
+    "overall_rating": 90
+  },
+  {
+    "name": "Desmond Bane",
+    "team": "Memphis Grizzlies",
+    "positions": ["SG", "SF"],
+    "overall_rating": 86
+  },
+  {
+    "name": "Zach Edey",
+    "team": "Memphis Grizzlies",
+    "positions": ["C"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Santi Aldama",
+    "team": "Memphis Grizzlies",
+    "positions": ["PF", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Brandon Clarke",
+    "team": "Memphis Grizzlies",
+    "positions": ["C", "PF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Scotty Pippen Jr.",
+    "team": "Memphis Grizzlies",
+    "positions": ["PG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Jaylen Wells",
+    "team": "Memphis Grizzlies",
+    "positions": ["SF", "PF"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Luke Kennard",
+    "team": "Memphis Grizzlies",
+    "positions": ["SG", "PG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "GG Jackson",
+    "team": "Memphis Grizzlies",
+    "positions": ["SF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Jay Huff",
+    "team": "Memphis Grizzlies",
+    "positions": ["C"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Marvin Bagley III",
+    "team": "Memphis Grizzlies",
+    "positions": ["C", "PF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Vince Williams Jr.",
+    "team": "Memphis Grizzlies",
+    "positions": ["SF", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Lamar Stevens",
+    "team": "Memphis Grizzlies",
+    "positions": ["PF", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "John Konchar",
+    "team": "Memphis Grizzlies",
+    "positions": ["SG", "SF"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Cam Spencer",
+    "team": "Memphis Grizzlies",
+    "positions": ["SG", "SF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Zyon Pullin",
+    "team": "Memphis Grizzlies",
+    "positions": ["PG", "SG"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Yuki Kawamura",
+    "team": "Memphis Grizzlies",
+    "positions": ["PG"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Bam Adebayo",
+    "team": "Miami Heat",
+    "positions": ["C"],
+    "overall_rating": 89
+  },
+  {
+    "name": "Tyler Herro",
+    "team": "Miami Heat",
+    "positions": ["SG", "PG"],
+    "overall_rating": 88
+  },
+  {
+    "name": "Andrew Wiggins",
+    "team": "Miami Heat",
+    "positions": ["SF", "PF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Kel'el Ware",
+    "team": "Miami Heat",
+    "positions": ["C", "PF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Davion Mitchell",
+    "team": "Miami Heat",
+    "positions": ["PG", "SG"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Nikola Jovic",
+    "team": "Miami Heat",
+    "positions": ["PF", "C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Kyle Anderson",
+    "team": "Miami Heat",
+    "positions": ["PF", "SF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Duncan Robinson",
+    "team": "Miami Heat",
+    "positions": ["SG", "SF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Jaime Jaquez Jr.",
+    "team": "Miami Heat",
+    "positions": ["SF", "PF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Kevin Love",
+    "team": "Miami Heat",
+    "positions": ["C", "PF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Alec Burks",
+    "team": "Miami Heat",
+    "positions": ["SG", "SF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Terry Rozier III",
+    "team": "Miami Heat",
+    "positions": ["PG", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Haywood Highsmith",
+    "team": "Miami Heat",
+    "positions": ["PF", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Pelle Larsson",
+    "team": "Miami Heat",
+    "positions": ["SG", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Dru Smith",
+    "team": "Miami Heat",
+    "positions": ["PG", "SG"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Josh Christopher",
+    "team": "Miami Heat",
+    "positions": ["SG", "PG"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Keshad Johnson",
+    "team": "Miami Heat",
+    "positions": ["PF", "SF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Isaiah Stevens",
+    "team": "Miami Heat",
+    "positions": ["PG", "SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "positions": ["PF", "C"],
+    "overall_rating": 98
+  },
+  {
+    "name": "Damian Lillard",
+    "team": "Milwaukee Bucks",
+    "positions": ["PG"],
+    "overall_rating": 91
+  },
+  {
+    "name": "Brook Lopez",
+    "team": "Milwaukee Bucks",
+    "positions": ["C"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Bobby Portis",
+    "team": "Milwaukee Bucks",
+    "positions": ["PF", "C"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Kyle Kuzma",
+    "team": "Milwaukee Bucks",
+    "positions": ["PF", "C"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Gary Trent Jr.",
+    "team": "Milwaukee Bucks",
+    "positions": ["SG", "SF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Kevin Porter Jr.",
+    "team": "Milwaukee Bucks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Ryan Rollins",
+    "team": "Milwaukee Bucks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "AJ Green",
+    "team": "Milwaukee Bucks",
+    "positions": ["SG", "SF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Taurean Prince",
+    "team": "Milwaukee Bucks",
+    "positions": ["SF", "PF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Andre Jackson Jr.",
+    "team": "Milwaukee Bucks",
+    "positions": ["SF", "PG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Pat Connaughton",
+    "team": "Milwaukee Bucks",
+    "positions": ["SG", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Jericho Sims",
+    "team": "Milwaukee Bucks",
+    "positions": ["C"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Stanley Umude",
+    "team": "Milwaukee Bucks",
+    "positions": ["SF", "SG"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Tyler Smith",
+    "team": "Milwaukee Bucks",
+    "positions": ["PF", "SF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Chris Livingston",
+    "team": "Milwaukee Bucks",
+    "positions": ["PF", "SF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Pete Nance",
+    "team": "Milwaukee Bucks",
+    "positions": ["PF", "C"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Jamaree Bouyea",
+    "team": "Milwaukee Bucks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "positions": ["SG", "SF"],
+    "overall_rating": 94
+  },
+  {
+    "name": "Rudy Gobert",
+    "team": "Minnesota Timberwolves",
+    "positions": ["C"],
+    "overall_rating": 86
+  },
+  {
+    "name": "Julius Randle",
+    "team": "Minnesota Timberwolves",
+    "positions": ["PF", "C"],
+    "overall_rating": 86
+  },
+  {
+    "name": "Jaden McDaniels",
+    "team": "Minnesota Timberwolves",
+    "positions": ["SF", "PF"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Naz Reid",
+    "team": "Minnesota Timberwolves",
+    "positions": ["C", "PF"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Mike Conley",
+    "team": "Minnesota Timberwolves",
+    "positions": ["PG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Donte DiVincenzo",
+    "team": "Minnesota Timberwolves",
+    "positions": ["SG", "SF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Nickeil Alexander-Walker",
+    "team": "Minnesota Timberwolves",
+    "positions": ["SG", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Rob Dillingham",
+    "team": "Minnesota Timberwolves",
+    "positions": ["PG", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Terrence Shannon Jr.",
+    "team": "Minnesota Timberwolves",
+    "positions": ["SG", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Jaylen Clark",
+    "team": "Minnesota Timberwolves",
+    "positions": ["SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Bones Hyland",
+    "team": "Minnesota Timberwolves",
+    "positions": ["PG", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Joe Ingles",
+    "team": "Minnesota Timberwolves",
+    "positions": ["SF", "PF"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Josh Minott",
+    "team": "Minnesota Timberwolves",
+    "positions": ["SF", "PF"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Luka Garza",
+    "team": "Minnesota Timberwolves",
+    "positions": ["C"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Leonard Miller",
+    "team": "Minnesota Timberwolves",
+    "positions": ["PF", "SF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Tristen Newton",
+    "team": "Minnesota Timberwolves",
+    "positions": ["PG", "SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Jesse Edwards",
+    "team": "Minnesota Timberwolves",
+    "positions": ["C"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Zion Williamson",
+    "team": "New Orleans Pelicans",
+    "positions": ["PF", "C"],
+    "overall_rating": 89
+  },
+  {
+    "name": "C.J. McCollum",
+    "team": "New Orleans Pelicans",
+    "positions": ["PG", "SG"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Dejounte Murray",
+    "team": "New Orleans Pelicans",
+    "positions": ["SG", "PG"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Trey Murphy III",
+    "team": "New Orleans Pelicans",
+    "positions": ["SF", "PF"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Herbert Jones",
+    "team": "New Orleans Pelicans",
+    "positions": ["SG", "SF"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Yves Missi",
+    "team": "New Orleans Pelicans",
+    "positions": ["C", "PF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Kelly Olynyk",
+    "team": "New Orleans Pelicans",
+    "positions": ["C", "PF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Jose Alvarado",
+    "team": "New Orleans Pelicans",
+    "positions": ["PG", "SG"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Karlo Matkovic",
+    "team": "New Orleans Pelicans",
+    "positions": ["PF", "C"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Jeremiah Robinson-Earl",
+    "team": "New Orleans Pelicans",
+    "positions": ["PF", "C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Brandon Boston Jr.",
+    "team": "New Orleans Pelicans",
+    "positions": ["SF", "SG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Bruce Brown",
+    "team": "New Orleans Pelicans",
+    "positions": ["PG", "SG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Jordan Hawkins",
+    "team": "New Orleans Pelicans",
+    "positions": ["SG", "PG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Elfrid Payton",
+    "team": "New Orleans Pelicans",
+    "positions": ["PG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Antonio Reeves",
+    "team": "New Orleans Pelicans",
+    "positions": ["SG", "SF"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Keion Brooks Jr.",
+    "team": "New Orleans Pelicans",
+    "positions": ["SF", "PF"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Lester Quiñones",
+    "team": "New Orleans Pelicans",
+    "positions": ["PG", "SG"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Jamal Cain",
+    "team": "New Orleans Pelicans",
+    "positions": ["SF", "PF"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Kylor Kelley",
+    "team": "New Orleans Pelicans",
+    "positions": ["C"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Jalen Brunson",
+    "team": "New York Knicks",
+    "positions": ["PG"],
+    "overall_rating": 93
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "team": "New York Knicks",
+    "positions": ["PF", "C"],
+    "overall_rating": 93
+  },
+  {
+    "name": "OG Anunoby",
+    "team": "New York Knicks",
+    "positions": ["SF", "PF"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Mikal Bridges",
+    "team": "New York Knicks",
+    "positions": ["SF", "SG"],
+    "overall_rating": 86
+  },
+  {
+    "name": "Josh Hart",
+    "team": "New York Knicks",
+    "positions": ["PF", "SF"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Mitchell Robinson",
+    "team": "New York Knicks",
+    "positions": ["C"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Miles McBride",
+    "team": "New York Knicks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Precious Achiuwa",
+    "team": "New York Knicks",
+    "positions": ["PF", "C"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Cameron Payne",
+    "team": "New York Knicks",
+    "positions": ["PG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Tyler Kolek",
+    "team": "New York Knicks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Delon Wright",
+    "team": "New York Knicks",
+    "positions": ["PG", "SG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Landry Shamet",
+    "team": "New York Knicks",
+    "positions": ["SG", "PG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "MarJon Beauchamp",
+    "team": "New York Knicks",
+    "positions": ["SF", "SG"],
+    "overall_rating": 71
+  },
+  {
+    "name": "P.J. Tucker",
+    "team": "New York Knicks",
+    "positions": ["PF", "C"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Ariel Hukporti",
+    "team": "New York Knicks",
+    "positions": ["C", "PF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Pacome Dadiet",
+    "team": "New York Knicks",
+    "positions": ["SF", "PF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Kevin McCullar",
+    "team": "New York Knicks",
+    "positions": ["SG", "SF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Anton Watson",
+    "team": "New York Knicks",
+    "positions": ["PF", "SF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Shai Gilgeous-Alexander",
+    "team": "Oklahoma City Thunder",
+    "positions": ["PG", "SG"],
+    "overall_rating": 98
+  },
+  {
+    "name": "Jalen Williams",
+    "team": "Oklahoma City Thunder",
+    "positions": ["PF", "SF"],
+    "overall_rating": 89
+  },
+  {
+    "name": "Chet Holmgren",
+    "team": "Oklahoma City Thunder",
+    "positions": ["C", "PF"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Isaiah Hartenstein",
+    "team": "Oklahoma City Thunder",
+    "positions": ["C"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Luguentz Dort",
+    "team": "Oklahoma City Thunder",
+    "positions": ["SF", "PF"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Alex Caruso",
+    "team": "Oklahoma City Thunder",
+    "positions": ["SG", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Cason Wallace",
+    "team": "Oklahoma City Thunder",
+    "positions": ["PG", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Aaron Wiggins",
+    "team": "Oklahoma City Thunder",
+    "positions": ["PF", "SF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Isaiah Joe",
+    "team": "Oklahoma City Thunder",
+    "positions": ["SG", "PG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Jaylin Williams",
+    "team": "Oklahoma City Thunder",
+    "positions": ["C"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Kenrich Williams",
+    "team": "Oklahoma City Thunder",
+    "positions": ["PF", "C"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Ajay Mitchell",
+    "team": "Oklahoma City Thunder",
+    "positions": ["SG", "PG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Ousmane Dieng",
+    "team": "Oklahoma City Thunder",
+    "positions": ["PF", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Nikola Topic",
+    "team": "Oklahoma City Thunder",
+    "positions": ["PG", "SG"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Branden Carlson",
+    "team": "Oklahoma City Thunder",
+    "positions": ["C"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Dillon Jones",
+    "team": "Oklahoma City Thunder",
+    "positions": ["PF", "SF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Adam Flagler",
+    "team": "Oklahoma City Thunder",
+    "positions": ["SG", "PG"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Alex Ducas",
+    "team": "Oklahoma City Thunder",
+    "positions": ["SG", "SF"],
+    "overall_rating": 67
+  },
+  {
+    "name": "Paolo Banchero",
+    "team": "Orlando Magic",
+    "positions": ["PF", "SF"],
+    "overall_rating": 90
+  },
+  {
+    "name": "Franz Wagner",
+    "team": "Orlando Magic",
+    "positions": ["SF", "SG"],
+    "overall_rating": 89
+  },
+  {
+    "name": "Jalen Suggs",
+    "team": "Orlando Magic",
+    "positions": ["PG", "SG"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Anthony Black",
+    "team": "Orlando Magic",
+    "positions": ["PG", "SG"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Wendell Carter Jr.",
+    "team": "Orlando Magic",
+    "positions": ["C"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Cole Anthony",
+    "team": "Orlando Magic",
+    "positions": ["PG", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Goga Bitadze",
+    "team": "Orlando Magic",
+    "positions": ["C"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Moritz Wagner",
+    "team": "Orlando Magic",
+    "positions": ["C", "PF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Jonathan Isaac",
+    "team": "Orlando Magic",
+    "positions": ["PF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Kentavious Caldwell-Pope",
+    "team": "Orlando Magic",
+    "positions": ["SG", "SF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Tristan da Silva",
+    "team": "Orlando Magic",
+    "positions": ["PF", "C"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Caleb Houstan",
+    "team": "Orlando Magic",
+    "positions": ["SG", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Cory Joseph",
+    "team": "Orlando Magic",
+    "positions": ["PG", "SG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Jett Howard",
+    "team": "Orlando Magic",
+    "positions": ["SF", "SG"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Trevelin Queen",
+    "team": "Orlando Magic",
+    "positions": ["SG"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Gary Harris",
+    "team": "Orlando Magic",
+    "positions": ["SG", "SF"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Mac McClung",
+    "team": "Orlando Magic",
+    "positions": ["PG", "SG"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Ethan Thompson",
+    "team": "Orlando Magic",
+    "positions": ["SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Joel Embiid",
+    "team": "Philadelphia 76ers",
+    "positions": ["C"],
+    "overall_rating": 93
+  },
+  {
+    "name": "Tyrese Maxey",
+    "team": "Philadelphia 76ers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Quentin Grimes",
+    "team": "Philadelphia 76ers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 85
+  },
+  {
+    "name": "Paul George",
+    "team": "Philadelphia 76ers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Jared McCain",
+    "team": "Philadelphia 76ers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Kelly Oubre Jr.",
+    "team": "Philadelphia 76ers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Guerschon Yabusele",
+    "team": "Philadelphia 76ers",
+    "positions": ["PF", "C"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Andre Drummond",
+    "team": "Philadelphia 76ers",
+    "positions": ["C"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Justin Edwards",
+    "team": "Philadelphia 76ers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Adem Bona",
+    "team": "Philadelphia 76ers",
+    "positions": ["C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Kyle Lowry",
+    "team": "Philadelphia 76ers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Jeff Dowtin Jr.",
+    "team": "Philadelphia 76ers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Jared Butler",
+    "team": "Philadelphia 76ers",
+    "positions": ["PG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Eric Gordon",
+    "team": "Philadelphia 76ers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Lonnie Walker V",
+    "team": "Philadelphia 76ers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Ricky Council IV",
+    "team": "Philadelphia 76ers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Jalen Hood-Schifino",
+    "team": "Philadelphia 76ers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Colin Castleton",
+    "team": "Philadelphia 76ers",
+    "positions": ["C"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Alex Reese",
+    "team": "Philadelphia 76ers",
+    "positions": ["C", "PF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Marcus Bagley",
+    "team": "Philadelphia 76ers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Kevin Durant",
+    "team": "Phoenix Suns",
+    "positions": ["PF", "SF"],
+    "overall_rating": 93
+  },
+  {
+    "name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "positions": ["PG", "SG"],
+    "overall_rating": 90
+  },
+  {
+    "name": "Bradley Beal",
+    "team": "Phoenix Suns",
+    "positions": ["SG", "PG"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Nick Richards",
+    "team": "Phoenix Suns",
+    "positions": ["C"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Ryan Dunn",
+    "team": "Phoenix Suns",
+    "positions": ["SF", "PF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Grayson Allen",
+    "team": "Phoenix Suns",
+    "positions": ["SF", "SG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Tyus Jones",
+    "team": "Phoenix Suns",
+    "positions": ["PG"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Royce O'Neale",
+    "team": "Phoenix Suns",
+    "positions": ["SF", "PF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Monte Morris",
+    "team": "Phoenix Suns",
+    "positions": ["PG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Mason Plumlee",
+    "team": "Phoenix Suns",
+    "positions": ["C"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Bol Bol",
+    "team": "Phoenix Suns",
+    "positions": ["PF", "C"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Cody Martin",
+    "team": "Phoenix Suns",
+    "positions": ["SG", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Oso Ighodaro",
+    "team": "Phoenix Suns",
+    "positions": ["PF", "C"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Collin Gillespie",
+    "team": "Phoenix Suns",
+    "positions": ["PG"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Damion Lee",
+    "team": "Phoenix Suns",
+    "positions": ["SG", "SF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Vasilije Micic",
+    "team": "Phoenix Suns",
+    "positions": ["PG", "SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "TyTy Washington",
+    "team": "Phoenix Suns",
+    "positions": ["PG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Jalen Bridges",
+    "team": "Phoenix Suns",
+    "positions": ["SF", "PF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Deni Avdija",
+    "team": "Portland Trail Blazers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 86
+  },
+  {
+    "name": "Deandre Ayton",
+    "team": "Portland Trail Blazers",
+    "positions": ["C"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Shaedon Sharpe",
+    "team": "Portland Trail Blazers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Toumani Camara",
+    "team": "Portland Trail Blazers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Anfernee Simons",
+    "team": "Portland Trail Blazers",
+    "positions": ["SG", "PG"],
+    "overall_rating": 82
+  },
+  {
+    "name": "Robert Williams III",
+    "team": "Portland Trail Blazers",
+    "positions": ["C", "PF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Scoot Henderson",
+    "team": "Portland Trail Blazers",
+    "positions": ["PG", "SG"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Donovan Clingan",
+    "team": "Portland Trail Blazers",
+    "positions": ["C"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Jerami Grant",
+    "team": "Portland Trail Blazers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Jabari Walker",
+    "team": "Portland Trail Blazers",
+    "positions": ["PF", "SF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Dalano Banton",
+    "team": "Portland Trail Blazers",
+    "positions": ["SG", "PG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Matisse Thybulle",
+    "team": "Portland Trail Blazers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Duop Reath",
+    "team": "Portland Trail Blazers",
+    "positions": ["C"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Kris Murray",
+    "team": "Portland Trail Blazers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Rayan Rupert",
+    "team": "Portland Trail Blazers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Bryce McGowens",
+    "team": "Portland Trail Blazers",
+    "positions": ["SF", "SG"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Sidy Cissoko",
+    "team": "Portland Trail Blazers",
+    "positions": ["SF", "PF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Justin Minaya",
+    "team": "Portland Trail Blazers",
+    "positions": ["SG", "SF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Domantas Sabonis",
+    "team": "Sacramento Kings",
+    "positions": ["C"],
+    "overall_rating": 88
+  },
+  {
+    "name": "Zach LaVine",
+    "team": "Sacramento Kings",
+    "positions": ["SG", "SF"],
+    "overall_rating": 88
+  },
+  {
+    "name": "DeMar DeRozan",
+    "team": "Sacramento Kings",
+    "positions": ["SF", "PF"],
+    "overall_rating": 87
+  },
+  {
+    "name": "Malik Monk",
+    "team": "Sacramento Kings",
+    "positions": ["SG"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Keegan Murray",
+    "team": "Sacramento Kings",
+    "positions": ["PF", "SF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "team": "Sacramento Kings",
+    "positions": ["C"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Keon Ellis",
+    "team": "Sacramento Kings",
+    "positions": ["SG", "PG"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Jake LaRavia",
+    "team": "Sacramento Kings",
+    "positions": ["PF", "SF"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Trey Lyles",
+    "team": "Sacramento Kings",
+    "positions": ["PF", "C"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Devin Carter",
+    "team": "Sacramento Kings",
+    "positions": ["PG", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Markelle Fultz",
+    "team": "Sacramento Kings",
+    "positions": ["PG", "SG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Isaac Jones",
+    "team": "Sacramento Kings",
+    "positions": ["PF", "C"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Jae Crowder",
+    "team": "Sacramento Kings",
+    "positions": ["SF", "PF"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Terence Davis",
+    "team": "Sacramento Kings",
+    "positions": ["SF", "SG"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Doug McDermott",
+    "team": "Sacramento Kings",
+    "positions": ["PF", "SF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Mason Jones",
+    "team": "Sacramento Kings",
+    "positions": ["SG", "PG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Isaiah Crawford",
+    "team": "Sacramento Kings",
+    "positions": ["SF", "SG"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Victor Wembanyama",
+    "team": "San Antonio Spurs",
+    "positions": ["C", "PF"],
+    "overall_rating": 94
+  },
+  {
+    "name": "De'Aaron Fox",
+    "team": "San Antonio Spurs",
+    "positions": ["PG"],
+    "overall_rating": 86
+  },
+  {
+    "name": "Stephon Castle",
+    "team": "San Antonio Spurs",
+    "positions": ["SG", "PG"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Devin Vassell",
+    "team": "San Antonio Spurs",
+    "positions": ["SG", "SF"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Chris Paul",
+    "team": "San Antonio Spurs",
+    "positions": ["PG"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Keldon Johnson",
+    "team": "San Antonio Spurs",
+    "positions": ["SF", "PF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Jeremy Sochan",
+    "team": "San Antonio Spurs",
+    "positions": ["PF", "PG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Harrison Barnes",
+    "team": "San Antonio Spurs",
+    "positions": ["SF", "PF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Sandro Mamukelashvili",
+    "team": "San Antonio Spurs",
+    "positions": ["PF", "C"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Charles Bassey",
+    "team": "San Antonio Spurs",
+    "positions": ["C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Julian Champagnie",
+    "team": "San Antonio Spurs",
+    "positions": ["SF", "SG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Malaki Branham",
+    "team": "San Antonio Spurs",
+    "positions": ["SG", "PG"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Jordan McLaughlin",
+    "team": "San Antonio Spurs",
+    "positions": ["PG"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Blake Wesley",
+    "team": "San Antonio Spurs",
+    "positions": ["PG", "SG"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Bismack Biyombo",
+    "team": "San Antonio Spurs",
+    "positions": ["C"],
+    "overall_rating": 72
+  },
+  {
+    "name": "Harrison Ingram",
+    "team": "San Antonio Spurs",
+    "positions": ["PF", "SF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "David Duke Jr.",
+    "team": "San Antonio Spurs",
+    "positions": ["SG", "SF"],
+    "overall_rating": 69
+  },
+  {
+    "name": "Brandon Ingram",
+    "team": "Toronto Raptors",
+    "positions": ["SF", "PF"],
+    "overall_rating": 86
+  },
+  {
+    "name": "Scottie Barnes",
+    "team": "Toronto Raptors",
+    "positions": ["PF", "SF"],
+    "overall_rating": 85
+  },
+  {
+    "name": "R.J. Barrett",
+    "team": "Toronto Raptors",
+    "positions": ["SF", "SG"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Jakob Poeltl",
+    "team": "Toronto Raptors",
+    "positions": ["C"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Immanuel Quickley",
+    "team": "Toronto Raptors",
+    "positions": ["PG", "SG"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Gradey Dick",
+    "team": "Toronto Raptors",
+    "positions": ["SG", "SF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Chris Boucher",
+    "team": "Toronto Raptors",
+    "positions": ["C", "PF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Ja'Kobe Walter",
+    "team": "Toronto Raptors",
+    "positions": ["SF", "SG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Jonathan Mogbo",
+    "team": "Toronto Raptors",
+    "positions": ["PF", "C"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Jamal Shead",
+    "team": "Toronto Raptors",
+    "positions": ["PG", "SG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Ochai Agbaji",
+    "team": "Toronto Raptors",
+    "positions": ["PF", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "A.J. Lawson",
+    "team": "Toronto Raptors",
+    "positions": ["SG", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Jamison Battle",
+    "team": "Toronto Raptors",
+    "positions": ["SF", "PF"],
+    "overall_rating": 73
+  },
+  {
+    "name": "Jared Rhoden",
+    "team": "Toronto Raptors",
+    "positions": ["PF", "SF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Garrett Temple",
+    "team": "Toronto Raptors",
+    "positions": ["SG", "SF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "Ulrich Chomche",
+    "team": "Toronto Raptors",
+    "positions": ["C", "PF"],
+    "overall_rating": 68
+  },
+  {
+    "name": "John Collins",
+    "team": "Utah Jazz",
+    "positions": ["C", "PF"],
+    "overall_rating": 85
+  },
+  {
+    "name": "Lauri Markkanen",
+    "team": "Utah Jazz",
+    "positions": ["SF", "PF"],
+    "overall_rating": 84
+  },
+  {
+    "name": "Walker Kessler",
+    "team": "Utah Jazz",
+    "positions": ["C"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Collin Sexton",
+    "team": "Utah Jazz",
+    "positions": ["SG", "PG"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Keyonte George",
+    "team": "Utah Jazz",
+    "positions": ["PG", "SG"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Kyle Filipowski",
+    "team": "Utah Jazz",
+    "positions": ["C", "PF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Jordan Clarkson",
+    "team": "Utah Jazz",
+    "positions": ["SG", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "Isaiah Collier",
+    "team": "Utah Jazz",
+    "positions": ["PG", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Brice Sensabaugh",
+    "team": "Utah Jazz",
+    "positions": ["SF", "SG"],
+    "overall_rating": 76
+  },
+  {
+    "name": "Taylor Hendricks",
+    "team": "Utah Jazz",
+    "positions": ["PF", "SF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "KJ Martin",
+    "team": "Utah Jazz",
+    "positions": ["PF", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Johnny Juzang",
+    "team": "Utah Jazz",
+    "positions": ["SF", "SG"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Micah Potter",
+    "team": "Utah Jazz",
+    "positions": ["PF", "C"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Jaden Springer",
+    "team": "Utah Jazz",
+    "positions": ["SG", "SF"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Cody Williams",
+    "team": "Utah Jazz",
+    "positions": ["SF", "PF"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Svi Mykhailiuk",
+    "team": "Utah Jazz",
+    "positions": ["SG", "SF"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Oscar Tshiebwe",
+    "team": "Utah Jazz",
+    "positions": ["C", "PF"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Elijah Harkless",
+    "team": "Utah Jazz",
+    "positions": ["PG", "SG"],
+    "overall_rating": 71
+  },
+  {
+    "name": "Alexandre Sarr",
+    "team": "Washington Wizards",
+    "positions": ["PF", "C"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Jordan Poole",
+    "team": "Washington Wizards",
+    "positions": ["PG", "SG"],
+    "overall_rating": 83
+  },
+  {
+    "name": "Khris Middleton",
+    "team": "Washington Wizards",
+    "positions": ["SF", "PF"],
+    "overall_rating": 81
+  },
+  {
+    "name": "Bilal Coulibaly",
+    "team": "Washington Wizards",
+    "positions": ["SG", "SF"],
+    "overall_rating": 80
+  },
+  {
+    "name": "KyShawn George",
+    "team": "Washington Wizards",
+    "positions": ["SF", "PF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Bub Carrington",
+    "team": "Washington Wizards",
+    "positions": ["PG", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "team": "Washington Wizards",
+    "positions": ["PG", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Marcus Smart",
+    "team": "Washington Wizards",
+    "positions": ["PG", "SG"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Corey Kispert",
+    "team": "Washington Wizards",
+    "positions": ["SG", "SF"],
+    "overall_rating": 79
+  },
+  {
+    "name": "Justin Champagnie",
+    "team": "Washington Wizards",
+    "positions": ["SF", "SG"],
+    "overall_rating": 78
+  },
+  {
+    "name": "Saddiq Bey",
+    "team": "Washington Wizards",
+    "positions": ["SF", "PF"],
+    "overall_rating": 77
+  },
+  {
+    "name": "Richaun Holmes",
+    "team": "Washington Wizards",
+    "positions": ["C"],
+    "overall_rating": 77
+  },
+  {
+    "name": "AJ Johnson",
+    "team": "Washington Wizards",
+    "positions": ["SG", "PG"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Tristan Vukcevic",
+    "team": "Washington Wizards",
+    "positions": ["C", "PF"],
+    "overall_rating": 75
+  },
+  {
+    "name": "Colby Jones",
+    "team": "Washington Wizards",
+    "positions": ["SG", "SF"],
+    "overall_rating": 74
+  },
+  {
+    "name": "Anthony Gill",
+    "team": "Washington Wizards",
+    "positions": ["PF", "C"],
+    "overall_rating": 71
+  },
+  {
+    "name": "JT Thor",
+    "team": "Washington Wizards",
+    "positions": ["PF", "SF"],
+    "overall_rating": 70
+  },
+  {
+    "name": "Jaylen Martin",
+    "team": "Washington Wizards",
+    "positions": ["SG", "SF"],
+    "overall_rating": 69
+  }
+]
